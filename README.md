@@ -26,4 +26,5 @@ nc -nvlp 53
 Don't forget to add your web server address on exploit.
 And/Or adjust it based on your own preferences.
 ```
+python3 exploit.py
 ```
